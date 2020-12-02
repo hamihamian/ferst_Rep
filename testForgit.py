@@ -1,1 +1,2 @@
-print("in thr name of allahe")
+print("in the name of allahe")
+print("jhygcdszhbcoyudcgdskbcildusgv")
