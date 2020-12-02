@@ -1,0 +1,1 @@
+print("in thr name of allahe")
